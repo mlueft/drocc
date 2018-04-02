@@ -1,7 +1,7 @@
 // General Settings
 
 // Defines the serial port baud rate.  Make sure it matches the Bluetooth module's baud rate.
-// Recommended value: 1200, 2400, 4800, 9600, 19200, 38400, 57600, 115200
+// Recommended value: 1200, 2400, 4800, 9600, 19200, 38400, 57600, 115200 
 #define UART_BAUD_RATE 9600
 
 #define SCALE_X_ENABLED 1
